@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class BikeConfig
 {
-    // Don't worry bro, it's a POC 👌
+    // Needed for POC and time constraints
     private Random random = new Random();
 
     /** Wheel radius in cm, floating-point. */
