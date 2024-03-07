@@ -1,0 +1,8 @@
+package fr.esgi.scem.veloconnecte.enums;
+
+public enum Gender
+{
+    MALE,
+    FEMALE,
+    OTHER,
+}
