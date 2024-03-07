@@ -9,7 +9,7 @@ import fr.esgi.scem.veloconnecte.business.User;
 import fr.esgi.scem.veloconnecte.enums.Gender;
 
 @SpringBootTest
-class VeloconnecteApplicationTests
+class VeloconnecteApplicationUserTests
 {
 
 	@Test
